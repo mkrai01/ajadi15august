@@ -19,7 +19,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ajadi15augst
+        working-directory: rg
 
     steps:
       - name: Checkout code
@@ -67,7 +67,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ajadi15augst
+        working-directory: rg
 
     steps:
       - name: Checkout code
