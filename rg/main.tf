@@ -6,3 +6,7 @@ resource "azurerm_resource_group" "papua" {
   name     = "takua1-ci-rg"
   location = "central us"
 }
+resource "azurerm_resource_group" "takua" {
+  name     = "takua1-ci-rg"
+  location = "central india"
+}
